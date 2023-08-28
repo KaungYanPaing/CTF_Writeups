@@ -1,4 +1,4 @@
 # CTF_Writeups
-  My writeup is aimed at the CTF Players and Beginners to help them understand the fundamentals of Web Security, Cryptography, Forensic and Basic Reverse Engineering.
+  Our writeup is aimed at the CTF Players and Beginners to help them understand the Web Security, Cryptography, Forensic, OSINT, IR, MISC and Reverse Engineering.
 
-#0xpwn_CTF
+# CaptureTheFlag
